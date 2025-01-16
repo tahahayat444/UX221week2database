@@ -12,12 +12,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/1858-blended-canadian-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/100-canadian-rye-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/canadian-club-chronicles-45-year-old-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/databases/
         </loc>
     </url>
     <url>
